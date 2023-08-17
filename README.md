@@ -1,7 +1,7 @@
 # VALORANT BOT
 ## VALORANT BOTはstubeAPが作成しているVALORANTに関する質問をメインに回答することができるAI ChatBotです。
 #### 使い方
-##### ①[こちら](URL)またはこのサイトの「release」を押していただき一番上の「VALORANT BOT.html」をダウンロード。
+##### ①[こちら](https://github.com/stubeAP/VALORANT-BOT/releases/tag/v1.0.0)またはこのサイトの「release」を押していただき一番上の「VALORANT BOT.html」をダウンロード。
 ##### ②ダウンロードしてきたHTMLをダブルクリックで起動します。
 #####　※＜windows＞ここで起動しない、または変なプログラムが表示された場合は「右クリック」→「プログラムから開く」→「Google Chrome,Bingなどのネットが開けるものを選択」
 ##### ③起動出来たら画面に「VALORANT BOT」というサイトが開くと思うので右下の「M」マークでトークを開始してください。
